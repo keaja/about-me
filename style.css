@@ -6,11 +6,13 @@
 
 
 
-
 h1{
     color: blueviolet;
-}#apictureofme{
-color: blueviolet;
+    text-align: center;
+}
+
+body{
+    background-color: cornflowerblue;
 }
 
 
@@ -23,8 +25,10 @@ h1{
 }
 
 p{font-size: medium;
+   #keaja{ color: rebeccapurple;
 
 }
+
 h1{
     color: blue;
 }
@@ -33,6 +37,10 @@ h1{
 
 }
  
+
+    
+
+
 
 h1 {
     font-weight: bold;
@@ -46,6 +54,10 @@ h1 {
     font-size: 24px;
   }
 
+  @media (max-width: 750px)
+   { /* CSS Rules */ }
 
+
+  
 
 
